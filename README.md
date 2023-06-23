@@ -8,3 +8,5 @@ To initiate the file. Follow:
 6. php artisan migrate.
 7. npm run dev.
 8. Open localhost.
+
+Finished hosted website: https://laybare.assessment.meilchucabaluna.net/api/dashboard
