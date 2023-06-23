@@ -9,4 +9,4 @@ To initiate the file. Follow:
 7. npm run dev.
 8. Open localhost.
 
-Finished hosted website: https://laybare.assessment.meilchucabaluna.net/api/dashboard
+Finished website: https://laybare.assessment.meilchucabaluna.net/api/dashboard
